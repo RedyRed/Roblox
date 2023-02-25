@@ -8,6 +8,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/RedyRed/Roblox/main/Z
 ```
 ### Known Bugs & Fixes
 
-> Not being able to sprint after execution
+> Not being able to sprint after execution - Currently there's no fix for this problem
 
-> Being killed for big ping (Highly dependent on your ping, I recommend using range instead of kill-aura and make the distance setting lesser)
+> Being killed for big ping - Highly dependent on your ping, I recommend using range instead of kill-aura and make the distance setting lesser
