@@ -6,3 +6,6 @@
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/RedyRed/Roblox/main/ZOO%20(ZO%20Script)/ZOO.lua'))()
 ```
+### Known Bugs
+
+> Not being able to sprint after execution
